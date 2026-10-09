@@ -24,7 +24,7 @@ Instead, please report security vulnerabilities privately to keep the community 
 
 ### How to report privately:
 * **GitHub Private Vulnerability Reporting:** If enabled, please use the "Report a vulnerability" button under the **Security** tab of this repository.
-* **Alternative Contact:** [Insert your Discord Server link or a private developer email here]
+* **Alternative Contact:** [mehrad75oo@gmail.com]
 
 We take security issues very seriously and will prioritize a patch immediately.
 
